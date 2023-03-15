@@ -3,7 +3,7 @@
 Paper Title : <b>Individualized Training of Back Muscles using Iterative Learning
 Control of a Compliant Balance Board</b><br>
 Conference : <b>Submitted to The International Conference on Rehabilitation Robotics (ICORR) 2023 </b><br> 
-Authors    : <b>Elisabeth Jensen<sup>1,2</sup>, Fan Wu<sup>1,2</sup>, Reihaneh Mirjalili<sup>1,2</sup>, Kim Peper<sup>1,2</sup>, Dennis Ossadnik<sup>1,2</sup>, Jan Lang<sup>1,3,4</sup>, Matthias Martin<sup>5</sup>, Florian Hetfleisch<sup>5</sup>, Rainer Burgkart<sup>∗1,3</sup>, Sami Haddadin<sup>∗1,2</sup> </b><br>
+Authors    : <b>Elisabeth Jensen<sup>1,2</sup>, Reihaneh Mirjalili<sup>1,2</sup>, Kim Peper<sup>1,2</sup>, Dennis Ossadnik<sup>1,2</sup>, Fan Wu<sup>1,2</sup>, Jan Lang<sup>1,3,4</sup>, Matthias Martin<sup>5</sup>, Florian Hetfleisch<sup>5</sup>, Rainer Burgkart<sup>∗1,3</sup>, Sami Haddadin<sup>∗1,2</sup> </b><br>
 
 1. Munich Institute of Robotics and Machine Intelligence, Technical University of Munich (TUM), Munich, Germany
 2. Chair of Robotics and Systems Intelligence, TUM, Munich, Germany
