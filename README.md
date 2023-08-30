@@ -17,4 +17,4 @@ Correspondence: elisabeth.jensen@tum.de
 
 # Repository overview
 
-Here you can download the proof for the stability analysis presented in the paper.
+Here you can download the proof for the stability analysis presented in the paper as well as a short video describing the work.
